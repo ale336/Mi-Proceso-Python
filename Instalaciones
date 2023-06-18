@@ -1,0 +1,13 @@
+Instalación de Python en Linux Ubuntu
+
+Verificar versión de Python en terminal
+****************
+python --version 
+****************
+
+Actualizar paquetes a nueva versión del Sistema 
+****************
+sudo apt-get update
+sudo apt-get upgrade
+****************
+
